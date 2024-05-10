@@ -1,7 +1,7 @@
 # Rego Overview (OPA)
 
 
-## Generating a JSON Excution plan
+## Generating a JSON Execution plan
 Due to OPA working with JSON, there's a need to generate an execution plan from Terraform and put it into JSON format.
 
 * To generate an execution plan (**bash**):
