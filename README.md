@@ -44,7 +44,7 @@ When working in OPA, OPA builds a model/document which contains base document (s
  subnet.type = "aws_subnet"
 } (*a rule to select all resources of a certain type*)
   - unset subnets (*to remove a rule*)
-  - 
+
   > Note: Import statements and rules are stored in a repl package (virtual document)
   > Note: There are 2 types of rules, paritial rules (rules that assaign a value to a variable) and complete rules (rules at have a condition and evaluate to True or False)
 
